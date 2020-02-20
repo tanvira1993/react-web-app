@@ -18,6 +18,8 @@ function App() {
         >
           Learn React
         </a>
+
+        <h1>Hate react</h1>
       </header>
     </div>
   );
